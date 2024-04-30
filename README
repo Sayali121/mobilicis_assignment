@@ -1,0 +1,19 @@
+Name :- Work Opportunities in Japan
+
+Technologies Used :- HTML, CSS, vanilla Javascript
+
+Description :-Creating a complete, responsive job portal website using HTML, CSS, and vanilla JavaScript involves several components. Here's a basic structure and description for each section:
+
+1.Header Section:
+Include the logo or website name.
+Navigation menu with links to different sections like Home, Jobs, About, Contact, etc.
+
+2.Job Listings Section:
+Display job listings with brief information like job title, company, location, and a short description.
+Include pagination or infinite scroll for navigating through multiple job listings.
+
+3.Filter Section:
+Allow users to filter job listings based on criteria such as job type, location, salary range, etc.
+
+Job Details Section:
+When a user clicks on a job listing, display detailed information about the job on the separate page.
